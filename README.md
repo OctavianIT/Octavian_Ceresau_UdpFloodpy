@@ -51,8 +51,8 @@ sock.close
 ## **Prestazioni**
 <p>Questo screenshot mostra la fase di avvio dello script nei confronti della macchina target.
 La CPU è riuscita a toccare il 100% di utilizzo senza la libreria threading che avrebbe portato
-al crash la macchina virtuale ![prest](Octavian_Ceresau_UdpFlood/UdpFlood/Codice/prest.png)
-</p> 
+al crash la macchina virtuale </p> ![immagine](https://github.com/OctavianIT/Octavian_Ceresau_UdpFloodpy/blob/main/Octavian_Ceresau_UdpFlood/UdpFlood/Codice/prest.png?raw=true)
+
 
 
 Provare per credere😅
