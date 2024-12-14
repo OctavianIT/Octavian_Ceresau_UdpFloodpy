@@ -48,7 +48,7 @@ Connessione chiusa
 sock.close
 ```
 
-## **Prestazioni**
+## **Prestazioni💥**
 <p>Questo screenshot ⬇️ mostra la fase di avvio dello script nei confronti della macchina target.
 La CPU è riuscita a toccare il 100% di utilizzo senza la libreria threading che avrebbe portato
 al crash la macchina virtuale🙃 </p> 
@@ -56,7 +56,7 @@ al crash la macchina virtuale🙃 </p>
 [Immagine](https://github.com/OctavianIT/Octavian_Ceresau_UdpFloodpy/blob/main/Octavian_Ceresau_UdpFlood/UdpFlood/Codice/prest.png)
 <p>Provare per credere😅</p>
 
-## **Prevenzioni**
+## **Prevenzioni🛡️**
 #### **Filtraggio traffico UDP**
 Configurare il firewall per limitare il traffico UDP su porte non necessarie ed impostare un limitatore di traffico per limitare
 la quantità di pacchetti UDP in entrata
