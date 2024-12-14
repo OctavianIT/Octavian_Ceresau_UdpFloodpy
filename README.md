@@ -4,9 +4,9 @@ macchina tramite il protocollo UDP. L’obiettivo è sovraccaricare la macchina 
 impedendo a quest’ultima di gestire tutti i dati in entrata  </p>
 
 ## Indice 📘
-1. [Codice](#Codice)
-2. [Prestazioni](#Prestazioni)
-3. [Prevenzioni](#Prevenzioni)
+1. [Codice](#codice)
+2. [Prestazioni](#prestazioni)
+3. [Prevenzioni](#prevenzioni)
 
 ## **Codice👇🏼**
 Importazione librerie
