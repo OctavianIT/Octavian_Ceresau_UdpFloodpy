@@ -51,8 +51,9 @@ sock.close
 ## **Prestazioni**
 <p>Questo screenshot mostra la fase di avvio dello script nei confronti della macchina target.
 La CPU è riuscita a toccare il 100% di utilizzo senza la libreria threading che avrebbe portato
-al crash la macchina virtuale</p>
-(https://github.com/user-attachments/assets/17f63b82-4b9e-4256-8e3b-f2b0495e8a33)
+al crash la macchina virtuale </p> ![immagine](https://github.com/user-attachments/assets/17f63b82-4b9e-4256-8e3b-f2b0495e8a33)
+
+Provare per credere😅
 
 
 
