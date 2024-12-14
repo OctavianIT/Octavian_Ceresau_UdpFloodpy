@@ -56,7 +56,7 @@ al crash la macchina virtuale🙃 </p>
 [Immagine](https://github.com/OctavianIT/Octavian_Ceresau_UdpFloodpy/blob/main/Octavian_Ceresau_UdpFlood/UdpFlood/Codice/prest.png)
 <p>Provare per credere😅</p>
 
-## **Prevenzioni🛡️**
+## **Prevenzioni**🛡️
 #### **Filtraggio traffico UDP**
 Configurare il firewall per limitare il traffico UDP su porte non necessarie ed impostare un limitatore di traffico per limitare
 la quantità di pacchetti UDP in entrata
