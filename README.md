@@ -3,12 +3,12 @@
 macchina tramite il protocollo UDP. L’obiettivo è sovraccaricare la macchina target
 impedendo a quest’ultima di gestire tutti i dati in entrata  </p>
 
-## Indice
+## Indice 📘
 1. [Codice](#Codice)
 2. [Prestazioni](#Prestazioni)
 3. [Prevenzioni](#Prevenzioni)
 
-## Codice
+## **Codice👇🏼**
 Importazione librerie
 ```bash
 import socket
@@ -49,15 +49,17 @@ sock.close
 ```
 
 ## **Prestazioni**
-<p>Questo screenshot mostra la fase di avvio dello script nei confronti della macchina target.
+<p>Questo screenshot ⬇️ mostra la fase di avvio dello script nei confronti della macchina target.
 La CPU è riuscita a toccare il 100% di utilizzo senza la libreria threading che avrebbe portato
-al crash la macchina virtuale </p>
-[Immagine](https://www.amazon.com/)
+al crash la macchina virtuale🙃 </p> 
 
+[Immagine](https://github.com/OctavianIT/Octavian_Ceresau_UdpFloodpy/blob/main/Octavian_Ceresau_UdpFlood/UdpFlood/Codice/prest.png)
+<p>Provare per credere😅</p>
 
+## **🛡️Prevenzioni🛡️**
+#### **Filtraggio traffico UDP**
+Configurare il firewall per limitare il traffico UDP su porte non necessarie ed impostare un limitatore di traffico per limitare
+la quantità di pacchetti UDP in entrata
 
-Provare per credere😅
-
-
-
-
+#### Protezione Anti-DDoS
+Usare servizi esterni di mitigazione come: Cloudflare, AWS Shield o Google Cloud Armor
